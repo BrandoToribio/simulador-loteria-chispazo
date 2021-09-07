@@ -5,3 +5,6 @@ Nothing more.
 ¿Por qué en Power Point?  
 
 ¿Por qué no?
+## Autor
+Brando Alberto Toribio García 
+- brando.tg24@hotmail.com
