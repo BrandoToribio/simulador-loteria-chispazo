@@ -1,4 +1,4 @@
-# simulador-loteria-chispazo
+# Simulador de la lotería "Chispazo"
 Un divertido simulador del juego de Loteria Nacional "Chispazo".
 Nothing more.  
 
